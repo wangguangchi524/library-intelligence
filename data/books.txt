@@ -1,0 +1,363 @@
+[
+  {
+    "isbn": "9787000000018",
+    "title": "数据库系统：原理与实践",
+    "author": "陈立群",
+    "publisher": "人民邮电出版社",
+    "category": "计算机",
+    "price": 89.0,
+    "stock": 4,
+    "rating": 4.7,
+    "tags": [
+      "数据库",
+      "MongoDB"
+    ],
+    "publish_date": {
+      "$date": "2021-05-01T09:00:00.000+08:00"
+    },
+    "borrow_count": 7
+  },
+  {
+    "isbn": "9787000000025",
+    "title": "Python 数据清洗与可视化",
+    "author": "周明远",
+    "publisher": "机械工业出版社",
+    "category": "计算机",
+    "price": 79.0,
+    "stock": 3,
+    "rating": 4.6,
+    "tags": [
+      "Python",
+      "数据分析"
+    ],
+    "publish_date": {
+      "$date": "2022-05-01T09:00:00.000+08:00"
+    },
+    "borrow_count": 6
+  },
+  {
+    "isbn": "9787000000032",
+    "title": "计算机网络原理与实验",
+    "author": "刘海峰",
+    "publisher": "清华大学出版社",
+    "category": "计算机",
+    "price": 69.0,
+    "stock": 5,
+    "rating": 4.5,
+    "tags": [
+      "网络",
+      "教材"
+    ],
+    "publish_date": {
+      "$date": "2019-05-01T09:00:00.000+08:00"
+    },
+    "borrow_count": 5
+  },
+  {
+    "isbn": "9787000000049",
+    "title": "算法设计与分析",
+    "author": "赵文博",
+    "publisher": "科学出版社",
+    "category": "计算机",
+    "price": 59.0,
+    "stock": 5,
+    "rating": 4.4,
+    "tags": [
+      "算法",
+      "计算机"
+    ],
+    "publish_date": {
+      "$date": "2020-05-01T09:00:00.000+08:00"
+    },
+    "borrow_count": 6
+  },
+  {
+    "isbn": "9787000000056",
+    "title": "远山灯火",
+    "author": "林清和",
+    "publisher": "人民文学出版社",
+    "category": "文学",
+    "price": 45.0,
+    "stock": 3,
+    "rating": 4.6,
+    "tags": [
+      "小说",
+      "当代文学"
+    ],
+    "publish_date": {
+      "$date": "2018-05-01T09:00:00.000+08:00"
+    },
+    "borrow_count": 5
+  },
+  {
+    "isbn": "9787000000063",
+    "title": "旧城四季",
+    "author": "苏婉宁",
+    "publisher": "上海译文出版社",
+    "category": "文学",
+    "price": 39.0,
+    "stock": 2,
+    "rating": 4.3,
+    "tags": [
+      "散文",
+      "随笔"
+    ],
+    "publish_date": {
+      "$date": "2021-05-01T09:00:00.000+08:00"
+    },
+    "borrow_count": 4
+  },
+  {
+    "isbn": "9787000000070",
+    "title": "海边的旧书店",
+    "author": "顾南舟",
+    "publisher": "译林出版社",
+    "category": "文学",
+    "price": 42.0,
+    "stock": 0,
+    "rating": 4.5,
+    "tags": [
+      "小说",
+      "治愈"
+    ],
+    "publish_date": {
+      "$date": "2019-05-01T09:00:00.000+08:00"
+    },
+    "borrow_count": 4
+  },
+  {
+    "isbn": "9787000000087",
+    "title": "雨夜书简",
+    "author": "沈知白",
+    "publisher": "作家出版社",
+    "category": "文学",
+    "price": 36.0,
+    "stock": 4,
+    "rating": 4.1,
+    "tags": [
+      "文学",
+      "书信"
+    ],
+    "publish_date": {
+      "$date": "2023-05-01T09:00:00.000+08:00"
+    },
+    "borrow_count": 3
+  },
+  {
+    "isbn": "9787000000094",
+    "title": "管理学的实践逻辑",
+    "author": "许嘉成",
+    "publisher": "中国人民大学出版社",
+    "category": "经济管理",
+    "price": 68.0,
+    "stock": 3,
+    "rating": 4.2,
+    "tags": [
+      "管理学",
+      "教材"
+    ],
+    "publish_date": {
+      "$date": "2020-05-01T09:00:00.000+08:00"
+    },
+    "borrow_count": 4
+  },
+  {
+    "isbn": "9787000000100",
+    "title": "宏观经济学导论",
+    "author": "何启明",
+    "publisher": "北京大学出版社",
+    "category": "经济管理",
+    "price": 58.0,
+    "stock": 2,
+    "rating": 4.0,
+    "tags": [
+      "经济学",
+      "教材"
+    ],
+    "publish_date": {
+      "$date": "2017-05-01T09:00:00.000+08:00"
+    },
+    "borrow_count": 3
+  },
+  {
+    "isbn": "9787000000117",
+    "title": "组织行为学：理论与案例",
+    "author": "罗文静",
+    "publisher": "中信出版社",
+    "category": "经济管理",
+    "price": 72.0,
+    "stock": 3,
+    "rating": 4.3,
+    "tags": [
+      "组织行为",
+      "案例"
+    ],
+    "publish_date": {
+      "$date": "2022-05-01T09:00:00.000+08:00"
+    },
+    "borrow_count": 3
+  },
+  {
+    "isbn": "9787000000124",
+    "title": "数字营销基础",
+    "author": "唐亦然",
+    "publisher": "机械工业出版社",
+    "category": "经济管理",
+    "price": 55.0,
+    "stock": 6,
+    "rating": 4.1,
+    "tags": [
+      "营销",
+      "数字化"
+    ],
+    "publish_date": {
+      "$date": "2023-05-01T09:00:00.000+08:00"
+    },
+    "borrow_count": 3
+  },
+  {
+    "isbn": "9787000000131",
+    "title": "高等数学及应用",
+    "author": "王振宇",
+    "publisher": "高等教育出版社",
+    "category": "数学",
+    "price": 66.0,
+    "stock": 5,
+    "rating": 4.4,
+    "tags": [
+      "数学",
+      "教材"
+    ],
+    "publish_date": {
+      "$date": "2018-05-01T09:00:00.000+08:00"
+    },
+    "borrow_count": 4
+  },
+  {
+    "isbn": "9787000000148",
+    "title": "概率论与数理统计",
+    "author": "李文倩",
+    "publisher": "科学出版社",
+    "category": "数学",
+    "price": 52.0,
+    "stock": 4,
+    "rating": 4.5,
+    "tags": [
+      "概率论",
+      "统计"
+    ],
+    "publish_date": {
+      "$date": "2019-05-01T09:00:00.000+08:00"
+    },
+    "borrow_count": 3
+  },
+  {
+    "isbn": "9787000000155",
+    "title": "线性代数导引",
+    "author": "郑怀远",
+    "publisher": "清华大学出版社",
+    "category": "数学",
+    "price": 48.0,
+    "stock": 3,
+    "rating": 4.2,
+    "tags": [
+      "线性代数",
+      "基础"
+    ],
+    "publish_date": {
+      "$date": "2021-05-01T09:00:00.000+08:00"
+    },
+    "borrow_count": 2
+  },
+  {
+    "isbn": "9787000000162",
+    "title": "离散数学基础",
+    "author": "冯思远",
+    "publisher": "人民邮电出版社",
+    "category": "数学",
+    "price": 49.0,
+    "stock": 2,
+    "rating": 4.0,
+    "tags": [
+      "离散数学",
+      "计算机"
+    ],
+    "publish_date": {
+      "$date": "2020-05-01T09:00:00.000+08:00"
+    },
+    "borrow_count": 1
+  },
+  {
+    "isbn": "9787000000179",
+    "title": "中国经济史讲稿",
+    "author": "邓怀之",
+    "publisher": "商务印书馆",
+    "category": "历史",
+    "price": 88.0,
+    "stock": 2,
+    "rating": 4.6,
+    "tags": [
+      "经济史",
+      "历史"
+    ],
+    "publish_date": {
+      "$date": "2016-05-01T09:00:00.000+08:00"
+    },
+    "borrow_count": 1
+  },
+  {
+    "isbn": "9787000000186",
+    "title": "世界文明十五讲",
+    "author": "叶承泽",
+    "publisher": "北京大学出版社",
+    "category": "历史",
+    "price": 62.0,
+    "stock": 3,
+    "rating": 4.3,
+    "tags": [
+      "世界史",
+      "通识"
+    ],
+    "publish_date": {
+      "$date": "2019-05-01T09:00:00.000+08:00"
+    },
+    "borrow_count": 1
+  },
+  {
+    "_id": "BOOK-ARCHIVE-0001",
+    "isbn": "9787000000193",
+    "title": "丝绸之路研究",
+    "author": "韩雪松",
+    "publisher": "中华书局",
+    "category": "历史",
+    "price": 75.0,
+    "stock": 0,
+    "rating": 4.5,
+    "tags": [
+      "丝绸之路",
+      "历史"
+    ],
+    "publish_date": {
+      "$date": "2017-05-01T09:00:00.000+08:00"
+    },
+    "borrow_count": 0
+  },
+  {
+    "isbn": "9787000000209",
+    "title": "城市史论",
+    "author": "曹映真",
+    "publisher": "上海古籍出版社",
+    "category": "历史",
+    "price": 58.0,
+    "stock": 4,
+    "rating": 4.1,
+    "tags": [
+      "城市史",
+      "研究"
+    ],
+    "publish_date": {
+      "$date": "2022-05-01T09:00:00.000+08:00"
+    },
+    "borrow_count": 1
+  }
+]
